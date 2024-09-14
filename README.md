@@ -1,6 +1,8 @@
 <h2 align="center"> Hi, I'm Tang Bank 👋</h2>
+<!-- Your Personal profile: https://github.com/rzashakeri/beautify-github-profile -->
 
 **Talking about Personal Stuffs**
+
 - 🔭 I’m currently working on  [Dapplink](https://github.com/eniac-x-labs)
 - 🌱 I’m currently learning   [The Web3](https://github.com/the-web3)
 - 💬 Ask me about anything, I am happy to help
@@ -10,6 +12,7 @@
   <!-- Your languages and tools. Be careful with the alignment. 
   You can use this sites to get logos: https://www.vectorlogo.zone or https://simpleicons.org/ or https://www.iconfont.cn/
   -->
+  
 <code><img width="10%" src="https://github.com/user-attachments/assets/b9de2ba5-a852-4275-944c-674b173f42af"></code><!--Golang-->
 <code><img width="5%" src="https://github.com/user-attachments/assets/c8c18305-7a73-4675-8bb3-07142103c26f"></code><!--C++-->
 <code><img width="5%" src="https://github.com/user-attachments/assets/3ec03dd4-3a18-4b91-8607-1c8ead2d3b3c"></code><!--Rust-->
@@ -29,10 +32,12 @@
 
 **Status of work**
 <!-- Your GitHub stats: https://github.com/anuraghazra/github-readme-stats?tab=readme-ov-file -->
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TangBank&theme=shadow_blue&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 **Coding time in the last month**
 <!-- Your Weekly development breakdown: https://github.com/athul/waka-readme -->
+
 
 
 
