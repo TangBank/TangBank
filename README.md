@@ -27,7 +27,9 @@
 <code><img width="5%" src="https://github.com/user-attachments/assets/ad9117c6-23d6-4a6b-8955-d150dfd89de4"></code><!--Microsoft-Project-->
 <code><img width="12%" src="https://github.com/user-attachments/assets/0a648a54-6d4b-47c1-bbdb-ab5b193b5af6"></code><!--Jira-->
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TangBank)](https://github.com/anuraghazra/github-readme-stats)
+**Status of work**
+<!-- Your GitHub stats: https://github.com/anuraghazra/github-readme-stats?tab=readme-ov-file -->
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TangBank&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 **Coding time in the last month**
 
