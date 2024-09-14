@@ -18,6 +18,9 @@
 <code><img width="5%" src="https://github.com/user-attachments/assets/a12d08b3-72e2-4725-a0ad-2f1604a77163"></code><!--houdini-->
 <code><img width="5%" src="https://github.com/user-attachments/assets/cb408001-f306-4dc3-8e8e-259065ca5533"></code><!--solidity-->
 <code><img width="5%" src="https://github.com/user-attachments/assets/a2f6bd74-3782-4e0a-ba5f-08ae391709b0"></code><!--Blender-->
+<code><img width="5%" src="https://github.com/user-attachments/assets/781b5cff-f3d3-4780-842f-3cc5b3841697"></code><!--After Effects-->
+<code><img width="5%" src="https://github.com/user-attachments/assets/0bca5f91-644b-47df-bead-4f1ab93bf232"></code><!--Premiere-->
+<code><img width="5%" src="https://github.com/user-attachments/assets/9dc8d55f-7906-4160-86f5-404c66f0d944"></code><!--Drawio-->
 
 
 
