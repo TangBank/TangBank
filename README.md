@@ -1,4 +1,4 @@
-## Hi, I'm Tang Bank 👋
+<h2 align="center"> Hi, I'm Tang Bank 👋</h2>
 
 **Talking about Personal Stuffs**
 - 🔭 I’m currently working on  [Dapplink](https://github.com/eniac-x-labs)
