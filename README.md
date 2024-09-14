@@ -29,10 +29,10 @@
 
 **Status of work**
 <!-- Your GitHub stats: https://github.com/anuraghazra/github-readme-stats?tab=readme-ov-file -->
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TangBank&theme=shadow_green&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TangBank&theme=shadow_blue&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 **Coding time in the last month**
-<!-- Your WakaTime: https://github.com/athul/waka-readme -->
+<!-- Your Weekly development breakdown: https://github.com/athul/waka-readme -->
 
 
 
