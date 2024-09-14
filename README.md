@@ -32,6 +32,8 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TangBank&theme=shadow_green&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 **Coding time in the last month**
+<!-- Your WakaTime: https://github.com/athul/waka-readme -->
+
 
 
 
