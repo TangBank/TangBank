@@ -51,16 +51,6 @@
     </td>
     </td>
     <td align="center" width="96">
-        <img src="https://github.com/user-attachments/assets/781b5cff-f3d3-4780-842f-3cc5b3841697" alt="icon" width="65" height="65" />
-      <br>AfterEffects
-    </td>
-    </td>
-    <td align="center" width="96">
-        <img src="https://github.com/user-attachments/assets/0bca5f91-644b-47df-bead-4f1ab93bf232" alt="icon" width="65" height="65" />
-      <br>Premiere
-    </td>
-    </td>
-    <td align="center" width="96">
         <img src="https://github.com/user-attachments/assets/9dc8d55f-7906-4160-86f5-404c66f0d944" alt="icon" width="65" height="65" />
       <br>Drawio
     </td>
@@ -73,6 +63,16 @@
     <td align="center" width="96">
         <img src="https://github.com/user-attachments/assets/f24eb3b8-0252-4d2b-8fe1-0e28fd11ba70" alt="icon" width="65" height="65" />
       <br>MasterGo
+    </td>
+    </td>
+    <td align="center" width="96">
+        <img src="https://github.com/user-attachments/assets/781b5cff-f3d3-4780-842f-3cc5b3841697" alt="icon" width="65" height="65" />
+      <br>AfterEffects
+    </td>
+    </td>
+    <td align="center" width="96">
+        <img src="https://github.com/user-attachments/assets/0bca5f91-644b-47df-bead-4f1ab93bf232" alt="icon" width="65" height="65" />
+      <br>Premiere
     </td>
     </td>
     <td align="center" width="96">
