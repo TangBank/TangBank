@@ -108,7 +108,7 @@ Hi, I'm Tang Bank! Welcome to My profile
 <div align="center">
 <!-- Your GitHub stats: https://github.com/anuraghazra/github-readme-stats?tab=readme-ov-file -->
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TangBank&theme=shadow_blue&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TangBank&theme=vue-dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 </div>
 
 ---
