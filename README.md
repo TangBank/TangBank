@@ -1,4 +1,3 @@
-<!--- https://readme-typing-svg.herokuapp.com --->
 <h2 align="center">
 Hi, I'm Tang Bank! Welcome to My profile
     <img src="https://github.com/user-attachments/assets/3eb8a132-825a-43a4-9171-d81cda75a72f" width="30" height="30">
@@ -85,7 +84,7 @@ Hi, I'm Tang Bank! Welcome to My profile
     </td>
     </td>
     <td align="center" width="96">
-        <img src="https://github.com/user-attachments/assets/a44c00c7-5137-40ec-b06e-c7359ef0c252" alt="icon" width="65" height="65" />
+        <img src="https://github.com/user-attachments/assets/ff2270b4-e4fd-4573-a6e7-24066a9aefcb" alt="icon" width="65" height="65" />
       <br>UnrealEngine
     </td>
     </td>
