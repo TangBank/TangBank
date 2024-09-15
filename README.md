@@ -1,4 +1,8 @@
-<h2 align="center"> Hi, I'm Tang Bank 👋</h2>
+<h2 align="center">
+  Hi, I'm Tang Bank
+  <img src="https://github.com/user-attachments/assets/3eb8a132-825a-43a4-9171-d81cda75a72f" width="30" height="30">
+</h2>
+
 <!-- Your Personal profile: https://github.com/rzashakeri/beautify-github-profile -->
 
 **Talking about Personal Stuffs**
