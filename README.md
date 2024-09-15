@@ -1,6 +1,11 @@
+<!--- https://readme-typing-svg.herokuapp.com --->
 <h2 align="center">
-  Hi, I'm Tang Bank
-  <img src="https://github.com/user-attachments/assets/3eb8a132-825a-43a4-9171-d81cda75a72f" width="30" height="30">
+Hi, I'm Tang Bank! Welcome to My profile
+    <img src="https://github.com/user-attachments/assets/3eb8a132-825a-43a4-9171-d81cda75a72f" width="30" height="30">
+  <div align="center">
+    
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=007BFF&center=true&vCenter=true&width=600&height=45&lines=Product+Manager;Software+Engineer)](https://git.io/typing-svg)
+  </div>
 </h2>
 
 <!-- Your Personal profile: https://github.com/rzashakeri/beautify-github-profile -->
