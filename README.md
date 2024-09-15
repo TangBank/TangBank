@@ -8,6 +8,7 @@ Hi, I'm Tang Bank! Welcome to My profile
 </h2>
 
 <!-- Your Personal profile: https://github.com/rzashakeri/beautify-github-profile -->
+<img width="300" align="right" alt="Github" src="https://github.com/user-attachments/assets/d4f71b5d-e52c-4b77-b47e-a9221c6fa148" />
 <h3 align="left">
 💻 Talking about Personal Stuffs
 </h3>  
