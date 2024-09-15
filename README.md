@@ -81,11 +81,12 @@
     </td>
     </td>
     <td align="center" width="96">
-        <img src="https://github.com/user-attachments/assets/0a648a54-6d4b-47c1-bbdb-ab5b193b5af6" alt="icon" width="65" height="65" />
+        <img src="https://github.com/user-attachments/assets/a3238e86-66df-46ca-95c5-d43844d49233" alt="icon" width="65" height="65" />
       <br>Jira
     </td>
     </tr>
 </table>
+
 ---
 
 **Status of work**
