@@ -9,14 +9,18 @@ Hi, I'm Tang Bank! Welcome to My profile
 </h2>
 
 <!-- Your Personal profile: https://github.com/rzashakeri/beautify-github-profile -->
+<h3 align="left">
+💻 Talking about Personal Stuffs
+</h3>  
 
-**Talking about Personal Stuffs**
 - 🔭 I’m currently working on  [Dapplink](https://github.com/eniac-x-labs)
 - 🌱 I’m currently learning   [The Web3](https://github.com/the-web3)
 - 💬 Ask me about anything, I am happy to help
 - 📫 How to reach me: [@0xBankMan](https://x.com/0xBankMan)
 ---
-**Languages and Tools**
+<h3 align="left">
+💫 Languages and Tools
+</h3>      
 <!-- You can use this sites to get logos: https://www.vectorlogo.zone or https://simpleicons.org/ or https://www.iconfont.cn/  -->
 <table>
   <tr>
@@ -97,14 +101,18 @@ Hi, I'm Tang Bank! Welcome to My profile
 </table>
 
 ---
-
-**Status of work**
+<h3 align="left">
+📊 Status of work
+</h3>
 <!-- Your GitHub stats: https://github.com/anuraghazra/github-readme-stats?tab=readme-ov-file -->
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TangBank&theme=shadow_blue&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
-**Coding time in the last month**
+<h3 align="left">
+✍Coding time in the last month
+</h3>
+
 <!-- Your Weekly development breakdown: https://github.com/athul/waka-readme -->
 <!--START_SECTION:waka-->
 ```txt
