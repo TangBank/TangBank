@@ -1,5 +1,5 @@
 <h2 align="center">
-Hi, I'm Tang Bank! Welcome to My profile
+Hi, I'm Tang Bank! Welcome to my profile
     <img src="https://github.com/user-attachments/assets/3eb8a132-825a-43a4-9171-d81cda75a72f" width="30" height="30">
   <div align="center">
     
