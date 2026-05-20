@@ -50,56 +50,9 @@ Hi, I'm Tang Bank! Welcome to my profile
         <img src="https://github.com/user-attachments/assets/6196754c-134c-4ba4-8906-6dfa937121d1" alt="icon" width="65" height="65" />
       <br>Mysql
     </td>
-    <td align="center" width="96">
-        <img src="https://github.com/user-attachments/assets/a12d08b3-72e2-4725-a0ad-2f1604a77163" alt="icon" width="65" height="65" />
-      <br>Solidity
-    </td>
-    <td align="center" width="96">
-        <img src="https://github.com/user-attachments/assets/cb408001-f306-4dc3-8e8e-259065ca5533" alt="icon" width="65" height="65" />
-      <br>Houdini
    </tr>
   <tr>
-    </td>
-    <td align="center" width="96">
-        <img src="https://github.com/user-attachments/assets/a2f6bd74-3782-4e0a-ba5f-08ae391709b0" alt="icon" width="65" height="65" />
-      <br>Blender
-    </td>
-    </td>
-    <td align="center" width="96">
-        <img src="https://github.com/user-attachments/assets/9dc8d55f-7906-4160-86f5-404c66f0d944" alt="icon" width="65" height="65" />
-      <br>Drawio
-    </td>
-    </td>
-    <td align="center" width="96">
-        <img src="https://github.com/user-attachments/assets/f2bbda54-46fc-4656-91fb-7d53bf7e0e3a" alt="icon" width="65" height="65" />
-      <br>Figma
-    </td>
-    </td>
-    <td align="center" width="96">
-        <img src="https://github.com/user-attachments/assets/f24eb3b8-0252-4d2b-8fe1-0e28fd11ba70" alt="icon" width="65" height="65" />
-      <br>MasterGo
-    </td>
-    </td>
-    <td align="center" width="96">
-        <img src="https://github.com/user-attachments/assets/781b5cff-f3d3-4780-842f-3cc5b3841697" alt="icon" width="65" height="65" />
-      <br>AfterEffects
-    </td>
-    </td>
-    <td align="center" width="96">
-        <img src="https://github.com/user-attachments/assets/ff2270b4-e4fd-4573-a6e7-24066a9aefcb" alt="icon" width="65" height="65" />
-      <br>UnrealEngine
-    </td>
-    </td>
-    <td align="center" width="96">
-        <img src="https://github.com/user-attachments/assets/ad9117c6-23d6-4a6b-8955-d150dfd89de4" alt="icon" width="65" height="65" />
-      <br>Project
-    </td>
-    </td>
-    <td align="center" width="96">
-        <img src="https://github.com/user-attachments/assets/a3238e86-66df-46ca-95c5-d43844d49233" alt="icon" width="65" height="65" />
-      <br>Jira
-    </td>
-    </tr>
+
 </table>
 </div>
 
@@ -122,11 +75,10 @@ Hi, I'm Tang Bank! Welcome to my profile
 <!-- Your Weekly development breakdown: https://github.com/athul/waka-readme -->
 <!--START_SECTION:waka-->
 ```txt
-Markdown        20 hrs 57 mins  🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   23.82 %
-Figma           15 hrs 10 mins  🟩🟩🟩🟩🟨⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   17.25 %
+python          20 hrs 57 mins  🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   23.82 %
+pytorch         15 hrs 10 mins  🟩🟩🟩🟩🟨⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   17.25 %
 C++             13 hrs 46 mins  🟩🟩🟩🟩🟨⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   15.65 %
 Go              8 hrs 21 mins   🟩🟩🟨⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   09.49 %
-draw            6 hrs 22 mins   🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   07.25 %
 ```
 <!--END_SECTION:waka-->
     
