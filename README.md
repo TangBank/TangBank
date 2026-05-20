@@ -56,17 +56,7 @@ Hi, I'm Tang Bank! Welcome to my profile
 </table>
 </div>
 
----
-<h3 align="left">
-📊 Status of work
-</h3>
-<div align="center">
-<!-- Your GitHub stats: https://github.com/anuraghazra/github-readme-stats?tab=readme-ov-file -->
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TangBank&theme=vue-dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-</div>
-
----
 <h3 align="left">
 ✍Coding time in the last month
 </h3>
